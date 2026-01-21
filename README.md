@@ -16,5 +16,4 @@ cd repo-name
 npm install 
 
 ---
-
-## 
+## what are we doing 
